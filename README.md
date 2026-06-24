@@ -1,7 +1,3 @@
-# project
-Building useful things and learning every day.
-
-
 # 🚀 AutoAgent-MCP: Automated Meta Ads & GA4 Sync Agent
 
 ## 소개
